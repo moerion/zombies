@@ -1,0 +1,34 @@
+body {
+  padding-top:50px;
+  padding-left:50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url('/images/zombies.png') no-repeat;
+  background-size: 100%;
+  height:100%;
+  width:1390;
+  position:absolute;
+  margin:0px;
+}
+
+h1{
+  font: bold 40px Helvetica,  sans-serif;
+}
+a {
+  color: #00B7FF;
+}
+
+#page{
+height:100%;
+}
+
+#header{
+height:10%;
+}
+
+#content{
+height:80%;
+}
+
+#footer{
+height:10%;
+}
